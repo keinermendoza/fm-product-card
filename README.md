@@ -1,0 +1,28 @@
+# Frontend Mentor - Product preview card component solution
+
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+### Screenshot
+
+![](./public/images/product-card.png)
+
+
+### Links
+
+- Solution URL: [](https://your-solution-url.com)
+- Live Site URL: [](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+- [React](https://reactjs.org/) - JS library
+- Mobile-first workflow
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+
+## Author
+
+- Website - [keiner mendoza](https://keinermendoza.com)
+- Frontend Mentor - [@keinermendoza](https://www.frontendmentor.io/profile/keinermendoza)

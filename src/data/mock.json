@@ -1,0 +1,52 @@
+[
+    {
+        "id":"1",
+        "title": "Davidoff Cool Water Eau de Toilette",
+        "description": "A força das águas profundas e a masculinidade pura estão incorporadas nesta fragrância icônica. O perfume se desdobra com notas aromáticas de menta e lavanda, mescladas com a sensualidade do âmbar.",
+        "sell-price": "$89.99",
+        "full-price": "$125.50",
+        "smallImage": "/images/perfume-davidof.jpg",
+        "largeImage": "/images/perfume-davidof.jpg",
+        "category": "Perfume"
+    },
+    {
+        "id":"2",
+        "title": "Gabrielle Essence Eau De Parfum",
+        "description": "A floral, solar and voluptuous interpretation composed by Olivier Polge, Perfumer-Creator for the House of CHANEL.",
+        "sell-price": "$149.99",
+        "full-price": "$169.99",
+        "smallImage": "/images/image-product-mobile.jpg",
+        "largeImage": "/images/image-product-desktop.jpg",
+        "category": "Perfume"
+    },
+    {
+        "id":"3",
+        "title": "Acqua di Gio Profumo",
+        "description": "A sophisticated and intense fragrance that embodies the essence of the Mediterranean. With notes of bergamot, incense, and patchouli, it offers a unique and lasting scent.",
+        "sell-price": "$115.00",
+        "full-price": "$150.00",
+        "smallImage": "/images/perfume-gio.jpg",
+        "largeImage": "/images/perfume-gio.jpg",
+        "category": "Perfume"
+    },
+    {
+        "id":"4",
+        "title": "Versace Eros Eau de Parfum",
+        "description": "Inspired by Greek mythology, this fragrance is a tribute to passionate love and desire. With vibrant notes of mint, green apple, and tonka bean, it exudes confidence and strength.",
+        "sell-price": "$105.99",
+        "full-price": "$140.00",
+        "smallImage": "/images/perfume-eros.jpg",
+        "largeImage": "/images/perfume-eros.jpg",
+        "category": "Perfume"
+    },
+    {
+        "id":"5",
+        "title": "Tom Ford Noir Extreme",
+        "description": "A bold and luxurious scent that captures the essence of sophistication. With notes of cardamom, nutmeg, and amber, it delivers an unforgettable fragrance experience.",
+        "sell-price": "$199.00",
+        "full-price": "$225.00",
+        "smallImage": "/images/perfume-tom.jpg",
+        "largeImage": "/images/perfume-tom.jpg",
+        "category": "Perfume"
+    }
+]
