@@ -9,7 +9,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
+- Solution URL: [See in Frontend Mentor](https://www.frontendmentor.io/solutions/product-card-component-in-react-demo-product-gallery-3jnbWhNLrR)
 - Live Site URL: [Hosted on Vercel](https://fm-product-card-cyan.vercel.app/)
 
 ## My process
