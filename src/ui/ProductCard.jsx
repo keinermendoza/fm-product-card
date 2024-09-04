@@ -8,7 +8,7 @@ export default function ProductCard({title, titleLang='en', smallImage, largeIma
                 className='product-card__image'
                 src={smallImage} 
                 alt={title}
-                srcSet={`${smallImage} 600w, ${largeImage}`} 
+                srcSet={`${smallImage} 560w, ${largeImage}`} 
             />
         </figure>
         <div className='product-card__body'>

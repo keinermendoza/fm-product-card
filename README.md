@@ -10,7 +10,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Links
 
 - Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://your-live-site-url.com)
+- Live Site URL: [Hosted on Vercel](https://fm-product-card-cyan.vercel.app/)
 
 ## My process
 

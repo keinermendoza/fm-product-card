@@ -232,6 +232,8 @@ main {
 
   .product-card__body  {
     gap: 1.5rem;
+    padding: 2rem;
+
   }
   .product-card__body--main{
     gap: 1.5rem;
